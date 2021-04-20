@@ -12,7 +12,8 @@
       - [ ] 코드 구현
  - [x] Expert System
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/ExpertSystem/expertSystem.md (정리본)
- - [ ] Puzzy Logic
+ - [x] Puzzy Logic
+      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Puzzy/puzzy.md
  - [ ] Uncertainty
 
 ## To learn key methods for AI realization
