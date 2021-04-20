@@ -9,6 +9,7 @@
  - [ ] Knowledge Representation
  - [x] Game Tree
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/GameTree/GameTree.md (정리본)
+      - [ ] 코드 구현
  - [ ] Expert System
  - [ ] Puzzy Logic
  - [ ] Uncertainty
