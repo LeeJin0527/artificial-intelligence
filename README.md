@@ -11,7 +11,7 @@
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/GameTree/GameTree.md (정리본)
       - [ ] 코드 구현
  - [x] Expert System
-      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/ExpertSystem/expertSystem.md
+      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/ExpertSystem/expertSystem.md (정리본)
  - [ ] Puzzy Logic
  - [ ] Uncertainty
 
