@@ -59,12 +59,12 @@ while len(open_stack) != 0 :
         break
     moves = current.moves +1
     closed_stack.append(current)
-    current.expand(moves).reverse()
+    current.expand(moves).reverse() //openstack 에 뒤집어서 들어감 
     for state in current.expand(moves):
         if (state in closed_stack) or (state in open_stack):
             continue
         else:
-            open_stack.insert(0, state)
+            open_stack.insert(0, state) //stack LIFO
     
 
     
