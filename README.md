@@ -5,6 +5,7 @@
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/Search.md (searching 정리본)
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/bfs.py (BFS 8-PUZZLE PROBLEM SOLVING)
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/dfs.py (DFS 8-PUZZLE PROBLEM SOLVING)
+      - [ ] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/Astar.py (Astar 8-PUZZLE PROBLEM SOLVING)
  - [ ] Knowledge Representation
  - [ ] Game Tree
  - [ ] Expert System
