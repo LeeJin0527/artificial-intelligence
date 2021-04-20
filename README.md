@@ -12,3 +12,6 @@
 - [ ] Machine Learning :Linear Regression, KNN/ Kmeans , Neural Networks
 
 ## To develop application skills using Python
+
+and so on,,
+
