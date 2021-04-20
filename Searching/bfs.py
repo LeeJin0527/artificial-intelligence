@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 20 17:37:43 2021
 
-@author: 01
+@author: ijin
 """
 
 class State:
