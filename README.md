@@ -2,7 +2,7 @@
 
 ## Basic Concepts of Artificial Intelligence
  - [x] Searching
-  - [x] https://github.com/LeeJin0527/artificialIntelligence/tree/main (searching 정리본)
+  - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Search.md (searching 정리본)
  - [ ] Knowledge Representation
  - [ ] Game Tree
  - [ ] Expert System
