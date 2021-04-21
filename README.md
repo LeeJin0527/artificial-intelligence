@@ -2,6 +2,7 @@
 
 ## Basic Concepts of Artificial Intelligence
  - [x] Searching
+ 
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/Search.md (searching 정리본)
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/bfs.py (BFS 8-PUZZLE PROBLEM SOLVING)
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Searching/dfs.py (DFS 8-PUZZLE PROBLEM SOLVING)
@@ -25,9 +26,9 @@
       
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Puzzy/puzzy.md (정리본)
 
- - [x] Uncertainty 
-      
-      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Uncertainty/Uncertainty.md (정리본)
+ - [x] Uncertainty
+      - [ ] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Uncertainty/Uncertainty.md (정리본)
+     
 
 ## To learn key methods for AI realization
 - [ ] Machine Learning :Linear Regression, KNN/ Kmeans , Neural Networks
