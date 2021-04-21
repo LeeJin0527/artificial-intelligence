@@ -69,7 +69,7 @@ def minimax(board, depth, minPlayer):
     
     # if maxPlayer:
     #     value = -10000
-    #     #놓고 다시공백 상태로 만들어서 하나하나 평가 하는듯?
+    #     #놓고 다시공백 상태로 만들어서 하나하나 평가 
     #     for p in empty_cells(board):
     #         board[p] = 'X'
     #         x, score = minimax(board, depth -1, False)
