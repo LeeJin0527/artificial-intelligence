@@ -16,7 +16,7 @@
 - [x] Game Tree
       
      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/GameTree/GameTree.md (정리본)
-     - [x] 코드 구현 https://github.com/LeeJin0527/artificialIntelligence/blob/main/GameTree/TicTacToe.py
+     - [x]  https://github.com/LeeJin0527/artificialIntelligence/blob/main/GameTree/TicTacToe.py (코드 구현)
 
 - [x] Expert System
       
