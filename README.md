@@ -15,7 +15,8 @@
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/ExpertSystem/expertSystem.md (정리본)
  - [x] Puzzy Logic
       - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Puzzy/puzzy.md (정리본)
- - [ ] Uncertainty 
+ - [x] Uncertainty 
+      - [x] https://github.com/LeeJin0527/artificialIntelligence/blob/main/Uncertainty/Uncertainty.md
 
 ## To learn key methods for AI realization
 - [ ] Machine Learning :Linear Regression, KNN/ Kmeans , Neural Networks
